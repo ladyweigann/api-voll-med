@@ -1,6 +1,6 @@
 # api-voll-med
 
-Projeto desenvolvido com o curso Spring Boot 3: desenvolva uma API Rest em Java - Alura. Com ele foi possível:
+Projeto desenvolvido com o curso Spring Boot 3: desenvolva uma API Rest em Java - Alura. 
 
 - Crie do zero uma API Rest em Java com Spring Boot
 - Desenvolva CRUDs utilizando o banco de dados MySQL
